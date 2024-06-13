@@ -1,0 +1,20 @@
+"filename", "language", "Go", "Go Module File", "comment", "blank", "total"
+"/Users/simonklovning/git/bootdev-go-course/04-structs/1-structs-in-go/go.mod", "Go Module File", 0, 2, 0, 2, 4
+"/Users/simonklovning/git/bootdev-go-course/04-structs/1-structs-in-go/main.go", "Go", 5, 0, 0, 2, 7
+"/Users/simonklovning/git/bootdev-go-course/04-structs/1-structs-in-go/main_test.go", "Go", 49, 0, 2, 6, 57
+"/Users/simonklovning/git/bootdev-go-course/04-structs/2-nested-structs-in-go/go.mod", "Go Module File", 0, 2, 0, 2, 4
+"/Users/simonklovning/git/bootdev-go-course/04-structs/2-nested-structs-in-go/main.go", "Go", 16, 0, 0, 4, 20
+"/Users/simonklovning/git/bootdev-go-course/04-structs/2-nested-structs-in-go/main_test.go", "Go", 55, 0, 2, 5, 62
+"/Users/simonklovning/git/bootdev-go-course/04-structs/5-embedded-structs/go.mod", "Go Module File", 0, 2, 0, 2, 4
+"/Users/simonklovning/git/bootdev-go-course/04-structs/5-embedded-structs/main.go", "Go", 9, 0, 0, 3, 12
+"/Users/simonklovning/git/bootdev-go-course/04-structs/5-embedded-structs/main_test.go", "Go", 92, 0, 2, 6, 100
+"/Users/simonklovning/git/bootdev-go-course/04-structs/6-struct-methods-in-go/go.mod", "Go Module File", 0, 2, 0, 2, 4
+"/Users/simonklovning/git/bootdev-go-course/04-structs/6-struct-methods-in-go/main.go", "Go", 9, 0, 1, 4, 14
+"/Users/simonklovning/git/bootdev-go-course/04-structs/6-struct-methods-in-go/main_test.go", "Go", 28, 0, 2, 5, 35
+"/Users/simonklovning/git/bootdev-go-course/04-structs/c1-update-users/go.mod", "Go Module File", 0, 2, 0, 2, 4
+"/Users/simonklovning/git/bootdev-go-course/04-structs/c1-update-users/main.go", "Go", 29, 0, 1, 8, 38
+"/Users/simonklovning/git/bootdev-go-course/04-structs/c1-update-users/main_test.go", "Go", 48, 0, 2, 10, 60
+"/Users/simonklovning/git/bootdev-go-course/04-structs/c2-send-message/go.mod", "Go Module File", 0, 2, 0, 2, 4
+"/Users/simonklovning/git/bootdev-go-course/04-structs/c2-send-message/main.go", "Go", 33, 0, 1, 9, 43
+"/Users/simonklovning/git/bootdev-go-course/04-structs/c2-send-message/main_test.go", "Go", 43, 0, 2, 5, 50
+"Total", "-", 416, 12, 15, 79, 522

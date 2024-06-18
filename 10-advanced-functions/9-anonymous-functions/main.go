@@ -1,12 +1,12 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func printReports(messages []string) {
 	for _, message := range messages {
-		printCostReport(,message)
+		printCostReport(func(msg string) int {
+			return 2 * len(msg)
+		}, message)
 	}
 }
 

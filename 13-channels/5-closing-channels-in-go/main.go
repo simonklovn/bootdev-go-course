@@ -1,7 +1,15 @@
 package main
 
 func countReports(numSentCh chan int) int {
-	// ?
+	var total int 
+	for {
+		numSent, ok := <-numSentCh
+		if !ok {
+			break
+		}
+		total += numSent
+	}
+	return total
 }
 
 // don't touch below this line
